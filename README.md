@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/OM13030/LEET-CODE/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/OM13030/LEET-CODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/OM13030/LEET-CODE/tree/master/2843-count-symmetric-integers) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/OM13030/LEET-CODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Matrix
 |  |
 | ------- |
