@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/OM13030/LEET-CODE/tree/master/2843-count-symmetric-integers) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/OM13030/LEET-CODE/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
