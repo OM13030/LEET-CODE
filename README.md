@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
 | [2614-prime-in-diagonal](https://github.com/OM13030/LEET-CODE/tree/master/2614-prime-in-diagonal) |
 ## Math
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2729-check-if-the-number-is-fascinating](https://github.com/OM13030/LEET-CODE/tree/master/2729-check-if-the-number-is-fascinating) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
