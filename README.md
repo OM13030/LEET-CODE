@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/OM13030/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/OM13030/LEET-CODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OM13030/LEET-CODE/tree/master/0706-design-hashmap) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OM13030/LEET-CODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2614-prime-in-diagonal](https://github.com/OM13030/LEET-CODE/tree/master/2614-prime-in-diagonal) |
 ## Math
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/OM13030/LEET-CODE/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
 | [0705-design-hashset](https://github.com/OM13030/LEET-CODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OM13030/LEET-CODE/tree/master/0706-design-hashmap) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/OM13030/LEET-CODE/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Dynamic Programming
 |  |
@@ -87,12 +89,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/OM13030/LEET-CODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OM13030/LEET-CODE/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/OM13030/LEET-CODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OM13030/LEET-CODE/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/OM13030/LEET-CODE/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/OM13030/LEET-CODE/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
