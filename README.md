@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/OM13030/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OM13030/LEET-CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/OM13030/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OM13030/LEET-CODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2614-prime-in-diagonal](https://github.com/OM13030/LEET-CODE/tree/master/2614-prime-in-diagonal) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/OM13030/LEET-CODE/tree/master/0520-detect-capital) |
 | [3894-traffic-signal-color](https://github.com/OM13030/LEET-CODE/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/OM13030/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OM13030/LEET-CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/OM13030/LEET-CODE/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/OM13030/LEET-CODE/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Dynamic Programming
 |  |
