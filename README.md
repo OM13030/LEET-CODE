@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/OM13030/LEET-CODE/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/OM13030/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
 | [3894-traffic-signal-color](https://github.com/OM13030/LEET-CODE/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
@@ -105,8 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OM13030/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0680-valid-palindrome-ii](https://github.com/OM13030/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OM13030/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/OM13030/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
