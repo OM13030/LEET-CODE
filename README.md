@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/OM13030/LEET-CODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OM13030/LEET-CODE/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OM13030/LEET-CODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/OM13030/LEET-CODE/tree/master/0877-stone-game) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OM13030/LEET-CODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2614-prime-in-diagonal](https://github.com/OM13030/LEET-CODE/tree/master/2614-prime-in-diagonal) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/OM13030/LEET-CODE/tree/master/0172-factorial-trailing-zeroes) |
+| [0877-stone-game](https://github.com/OM13030/LEET-CODE/tree/master/0877-stone-game) |
 | [1103-distribute-candies-to-people](https://github.com/OM13030/LEET-CODE/tree/master/1103-distribute-candies-to-people) |
 | [2614-prime-in-diagonal](https://github.com/OM13030/LEET-CODE/tree/master/2614-prime-in-diagonal) |
 | [2651-calculate-delayed-arrival-time](https://github.com/OM13030/LEET-CODE/tree/master/2651-calculate-delayed-arrival-time) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
+| [0877-stone-game](https://github.com/OM13030/LEET-CODE/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/OM13030/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/OM13030/LEET-CODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
