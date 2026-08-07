@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/OM13030/LEET-CODE/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/OM13030/LEET-CODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0273-integer-to-english-words](https://github.com/OM13030/LEET-CODE/tree/master/0273-integer-to-english-words) |
 | [0877-stone-game](https://github.com/OM13030/LEET-CODE/tree/master/0877-stone-game) |
