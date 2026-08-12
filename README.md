@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/OM13030/LEET-CODE/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/OM13030/LEET-CODE/tree/master/0273-integer-to-english-words) |
 | [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/OM13030/LEET-CODE/tree/master/0520-detect-capital) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/OM13030/LEET-CODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OM13030/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OM13030/LEET-CODE/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/OM13030/LEET-CODE/tree/master/0680-valid-palindrome-ii) |
