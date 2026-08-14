@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OM13030/LEET-CODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/OM13030/LEET-CODE/tree/master/0877-stone-game) |
 | [1002-find-common-characters](https://github.com/OM13030/LEET-CODE/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/OM13030/LEET-CODE/tree/master/1207-unique-number-of-occurrences) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OM13030/LEET-CODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2614-prime-in-diagonal](https://github.com/OM13030/LEET-CODE/tree/master/2614-prime-in-diagonal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OM13030/LEET-CODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/OM13030/LEET-CODE/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/OM13030/LEET-CODE/tree/master/0706-design-hashmap) |
 | [1002-find-common-characters](https://github.com/OM13030/LEET-CODE/tree/master/1002-find-common-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/OM13030/LEET-CODE/tree/master/1207-unique-number-of-occurrences) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/OM13030/LEET-CODE/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/OM13030/LEET-CODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
