@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/OM13030/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/OM13030/LEET-CODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OM13030/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/OM13030/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/OM13030/LEET-CODE/tree/master/0877-stone-game) |
 ## Sorting
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/OM13030/LEET-CODE/tree/master/0273-integer-to-english-words) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/OM13030/LEET-CODE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
