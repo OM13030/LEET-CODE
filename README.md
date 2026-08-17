@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OM13030/LEET-CODE/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/OM13030/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/OM13030/LEET-CODE/tree/master/0162-find-peak-element) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/OM13030/LEET-CODE/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/OM13030/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/OM13030/LEET-CODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/OM13030/LEET-CODE/tree/master/0496-next-greater-element-i) |
