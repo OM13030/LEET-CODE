@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/OM13030/LEET-CODE/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/OM13030/LEET-CODE/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/OM13030/LEET-CODE/tree/master/0511-game-play-analysis-i) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/OM13030/LEET-CODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0619-biggest-single-number](https://github.com/OM13030/LEET-CODE/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/OM13030/LEET-CODE/tree/master/1075-project-employees-i) |
 ## Recursion
