@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/OM13030/LEET-CODE/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/OM13030/LEET-CODE/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/OM13030/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/OM13030/LEET-CODE/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OM13030/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/OM13030/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/OM13030/LEET-CODE/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/OM13030/LEET-CODE/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/OM13030/LEET-CODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/OM13030/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/OM13030/LEET-CODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OM13030/LEET-CODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/OM13030/LEET-CODE/tree/master/0557-reverse-words-in-a-string-iii) |
