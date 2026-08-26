@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OM13030/LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/OM13030/LEET-CODE/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/OM13030/LEET-CODE/tree/master/0273-integer-to-english-words) |
 | [0500-keyboard-row](https://github.com/OM13030/LEET-CODE/tree/master/0500-keyboard-row) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/OM13030/LEET-CODE/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/OM13030/LEET-CODE/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/OM13030/LEET-CODE/tree/master/0053-maximum-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/OM13030/LEET-CODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
