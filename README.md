@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OM13030/LEET-CODE/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/OM13030/LEET-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/OM13030/LEET-CODE/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/OM13030/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/OM13030/LEET-CODE/tree/master/0118-pascals-triangle) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/OM13030/LEET-CODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/OM13030/LEET-CODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/OM13030/LEET-CODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/OM13030/LEET-CODE/tree/master/0125-valid-palindrome) |
